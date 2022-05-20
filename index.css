@@ -241,7 +241,9 @@ border-radius: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }  
 body{
-    background-color: #632432;
+    background: url("https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/06/16203748/jaguares-america-del-sur-trafico-4-1.jpg");
+    background-size: cover;
+    background-attachment:fixed;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 #main-container{ 
